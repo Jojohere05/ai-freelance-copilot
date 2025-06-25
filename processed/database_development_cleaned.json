@@ -1,0 +1,288 @@
+[
+  {
+    "title": "Private project or contest #39469828",
+    "description": "please sign up or login to see details.",
+    "description_length": 8,
+    "skills": [
+      "data visualization",
+      "database development",
+      "database programming",
+      "statistical analysis",
+      "statistics"
+    ],
+    "budget_min": null,
+    "budget_max": null,
+    "budget_type": "fixed",
+    "bids": 0,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": "2025-06-16T19:12:08Z",
+    "days_remaining": 6,
+    "url": "https://www.freelancer.com/login?goto=MGMxMWYyYzNhNjJkMWVhZTA5NmIyYzE5MWEzYWRhNjhodHRwczovL3d3dy5mcmVlbGFuY2VyLmNvbS9wcm9qZWN0cy9kYXRhLXZpc3VhbGl6YXRpb24vYXZpYXRpb24taW5zdXJhbmNlLXN0YXRzLWNvbGxhdGlvbg,,"
+  },
+  {
+    "title": "MariaDB to PostgreSQL Migration",
+    "description": "i need an experienced database administrator to migrate a database from mariadb to postgresql. requirements: - database size is less than 1gb. - all tables should be migrated equally; no special attention needed for specific tables. - it's crucial to maintain all specific data formats and constraints during the migration. ideal skills and experience: - proficiency in both mariadb and postgresql - strong understanding of database formats and constraints - proven experience with database migration projects - attention to detail to ensure data integrity",
+    "description_length": 84,
+    "skills": [
+      "database administration",
+      "database development",
+      "linux",
+      "mysql",
+      "postgresql"
+    ],
+    "budget_min": 3237,
+    "budget_max": 3237,
+    "budget_type": "fixed",
+    "bids": 24,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": "2025-06-16T19:12:08Z",
+    "days_remaining": 6,
+    "url": "https://www.freelancer.com/projects/mysql/mariadb-postgresql-migration"
+  },
+  {
+    "title": "IETM Level 4 Development",
+    "description": "develop a cutting-edge level 4 interactive electronic technical manual (ietm) for technical maintenance documentation (preventive, corrective, predictive). the solution must exceed standard s1000d/mil-std benchmarks and integrate next-gen features for global enterprises. interactive 3d models: explodable parts linked to procedures, with ar view (compatible with hololens/ios/android). animation support for complex assemblies (e.g., gearbox disassembly). ai-powered search: nlp-based semantic search (e.g., \"overheating during startup\" returns relevant diagnostics). voice command support (multilingual). smart troubleshooting: dynamic fault trees with probabilistic guidance (e.g., \"based on 200+ cases, replace sensor x first\"). integration with iot sensors for real-...",
+    "description_length": 92,
+    "skills": [
+      "database development",
+      "sql"
+    ],
+    "budget_min": 50464,
+    "budget_max": 50464,
+    "budget_type": "fixed",
+    "bids": 10,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": "2025-06-15T19:12:08Z",
+    "days_remaining": 5,
+    "url": "https://www.freelancer.com/projects/sql/ietm-level-development"
+  },
+  {
+    "title": "Cross-Platform Accounting App Development",
+    "description": "i'm looking for an experienced mobile app developer to create a cross-platform accounting app. key requirements: - stable and user-friendly interface - secure login and data protection - basic accounting functions (income, expenses, reports) - budgeting tools - multi-currency support - sync across devices - push notifications for transactions ideal skills and experience: - expertise in react native or flutter - strong background in app security - experience with financial or accounting apps - ui/ux design skills - good communication and project management please provide examples of previous work and an estimated timeline. looking forward to your proposals!",
+    "description_length": 98,
+    "skills": [
+      "database development",
+      "graphic design",
+      "mobile app development"
+    ],
+    "budget_min": 51211,
+    "budget_max": 51211,
+    "budget_type": "fixed",
+    "bids": 96,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": "2025-06-14T19:12:08Z",
+    "days_remaining": 4,
+    "url": "https://www.freelancer.com/projects/mobile-app-development/cross-platform-accounting-app"
+  },
+  {
+    "title": "SQL Server Optimization Expert Needed",
+    "description": "i'm seeking a senior sql server dba to optimize our sql server environment. key tasks include: - optimizing specific stored procedures (documentation provided) - creating and implementing indexing strategies - partitioning databases for performance improvement ideal skills and experience: - extensive sql server experience - expertise in stored procedures, indexing, and partitioning - strong documentation and communication skills - familiarity with sql server optimization tools please provide examples of previous optimization work and relevant certifications.",
+    "description_length": 75,
+    "skills": [
+      "database administration",
+      "database development",
+      "microsoft sql server",
+      "mysql",
+      "sql"
+    ],
+    "budget_min": 16849,
+    "budget_max": 16849,
+    "budget_type": "fixed",
+    "bids": 75,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": "2025-06-14T19:12:08Z",
+    "days_remaining": 4,
+    "url": "https://www.freelancer.com/projects/sql/sql-server-optimization-expert-needed"
+  },
+  {
+    "title": "AI Database for Cement & Materials",
+    "description": "i need an ai-powered database tailored for cement and structural engineers. this database should facilitate material selection and comparison, focusing on various types of cement and additives/admixtures. key requirements: - include diverse cement types and additives/admixtures. - enable comparisons based on: - cost - performance - environmental impact ideal skills: - expertise in ai and database development - knowledge of civil engineering materials - experience in cost, performance, and environmental analysis looking for a developer who can create a comprehensive, user-friendly, and efficient platform. here is a **clear, technical brief** you can send to a developer familiar with openai\u2019s tools and apis. it outlines exactly what you want to build, with a suggested stack an...",
+    "description_length": 115,
+    "skills": [
+      "ai (artificial intelligence) hw/sw",
+      "algorithm",
+      "database development",
+      "database programming",
+      "machine learning (ml)"
+    ],
+    "budget_min": 86652,
+    "budget_max": 86652,
+    "budget_type": "fixed",
+    "bids": 42,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": "2025-06-13T19:12:08Z",
+    "days_remaining": 3,
+    "url": "https://www.freelancer.com/projects/ai-hw-sw/database-for-cement-materials"
+  },
+  {
+    "title": "Supabase Database Schema Expert Needed",
+    "description": "i'm seeking an experienced supabase professional to help fix, structure, and finalize key areas of my application. key tasks include: - fixing database configuration issues, primarily around database schema design. - restructuring table relationships to optimize performance and ensure data integrity. ideal skills and experience: - proficiency in supabase and postgresql - strong experience with database schema design and table relationships - ability to troubleshoot and resolve database configuration issues looking forward to your expertise!",
+    "description_length": 75,
+    "skills": [
+      "database administration",
+      "database development",
+      "database programming",
+      "mysql",
+      "sql"
+    ],
+    "budget_min": 2241,
+    "budget_max": 2241,
+    "budget_type": "fixed",
+    "bids": 13,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": "2025-06-13T19:12:08Z",
+    "days_remaining": 3,
+    "url": "https://www.freelancer.com/projects/database-administration/supabase-database-schema-expert-needed"
+  },
+  {
+    "title": "PowerBI Reports Fix and Training",
+    "description": "i'm looking for help fixing existing powerbi reports, and subsequent support to train a group of seven project managers (ideally on-site based in fareham, uk). the databases we're using are fairly large (based on ms project information for circa 50 projects uploaded to ms project server) and would ideally required an on-site presence in fareham, uk. requirements: - fix data inaccuracies in existing powerbi reports (reports not refreshing correctly) - debug charts and graphs visualizations - potential improvements to existing visualisations to support better quality decision making training: - train seven project managers on basic powerbi report creation using ms project server (cost/schedule) data. - ideal skills include powerbi expertise, debugging experience, and training c...",
+    "description_length": 115,
+    "skills": [
+      "database development",
+      "debugging",
+      "employee training",
+      "excel",
+      "power bi"
+    ],
+    "budget_min": 255308,
+    "budget_max": 255308,
+    "budget_type": "fixed",
+    "bids": 46,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": "2025-06-13T19:12:08Z",
+    "days_remaining": 3,
+    "url": "https://www.freelancer.com/projects/excel/powerbi-reports-fix-training"
+  },
+  {
+    "title": "Cancer Charity Database Development",
+    "description": "i need a comprehensive database for a cancer charity. the primary function of this database will be to track volunteers. key features needed: - volunteer management: - track contact details, availability, skills and qualifications, and tasks performed. - event organization: - organize fundraising events and volunteer training sessions. - patient management: storing their data and linking them to the volunteers assigned to perform tasks. ideal skills and experience: - experience in database design and management - familiarity with non-profit organization needs - ability to create user-friendly interfaces - strong organizational skills to handle multiple data points please provide examples of similar work done and your approach to ensure the database is secure and efficient.",
+    "description_length": 114,
+    "skills": [
+      "database development",
+      "database programming",
+      "google spreadsheets",
+      "mysql",
+      "php"
+    ],
+    "budget_min": 58515,
+    "budget_max": 58515,
+    "budget_type": "fixed",
+    "bids": 127,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": "2025-06-12T19:12:08Z",
+    "days_remaining": 2,
+    "url": "https://www.freelancer.com/projects/php/cancer-charity-database-development"
+  },
+  {
+    "title": "Power BI Financial Dashboard",
+    "description": "i need a power bi expert to create a financial metrics dashboard. the dashboard should visualize the following financial metrics: - revenue - expenses - profit & loss the data will be sourced from sql databases. ideal skills & experience: - proficiency in power bi - strong background in financial data analysis - experience connecting sql databases to power bi - ability to create interactive and insightful dashboards",
+    "description_length": 68,
+    "skills": [
+      "database development",
+      "database programming",
+      "microsoft powerbi",
+      "power bi"
+    ],
+    "budget_min": 249,
+    "budget_max": 249,
+    "budget_type": "fixed",
+    "bids": 38,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": "2025-06-12T19:12:08Z",
+    "days_remaining": 2,
+    "url": "https://www.freelancer.com/projects/database-development/power-financial-dashboard"
+  },
+  {
+    "title": "Power BI Financial Dashboard",
+    "description": "i need a power bi expert to create a financial metrics dashboard. the dashboard should visualize the following financial metrics: - revenue - expenses - profit & loss the data will be sourced from sql databases. ideal skills & experience: - proficiency in power bi - strong background in financial data analysis - experience connecting sql databases to power bi - ability to create interactive and insightful dashboards",
+    "description_length": 68,
+    "skills": [
+      "database development",
+      "database programming",
+      "microsoft powerbi",
+      "power bi",
+      "sql"
+    ],
+    "budget_min": 498,
+    "budget_max": 498,
+    "budget_type": "fixed",
+    "bids": 61,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": "2025-06-11T19:12:08Z",
+    "days_remaining": 1,
+    "url": "https://www.freelancer.com/projects/sql/power-financial-dashboard"
+  },
+  {
+    "title": "Data Cleaning in Databricks Azure",
+    "description": "i'm looking for an experienced data scientist to assist with data cleaning and preprocessing tasks using databricks. key requirements: - work with structured data, primarily from sql databases (mysql, postgresql). - clean and preprocess data to prepare it for analysis. - handle missing values, removing duplicates, normalization and scaling. ideal skills and experience: - proficiency in databricks. - strong sql skills and experience with mysql and postgresql. - expertise in data cleaning and preprocessing techniques. looking for someone who can efficiently handle large datasets and ensure data quality.",
+    "description_length": 88,
+    "skills": [
+      "database administration",
+      "database development",
+      "database programming",
+      "elasticsearch",
+      "mysql"
+    ],
+    "budget_min": 1245,
+    "budget_max": 1245,
+    "budget_type": "fixed",
+    "bids": 29,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": "2025-06-11T19:12:08Z",
+    "days_remaining": 1,
+    "url": "https://www.freelancer.com/projects/database-administration/data-cleaning-databricks-azure"
+  },
+  {
+    "title": "Scalable Data Pipeline Development",
+    "description": "i'm seeking an experienced freelance data engineer to design, build, and maintain scalable data pipelines and infrastructure. key responsibilities: - design and implement scalable etl/elt pipelines to ingest data from various sources (apis, databases, cloud storage, etc.) with a primary focus on connecting to mysql and postgresql databases. - build and maintain snowflake data storage solutions. - optimize and automate data workflows for performance and reliability. - collaborate with stakeholders to understand data needs and deliver solutions. - monitor data quality, integrity, and performance. - document data flows, schemas, and technical specifications. ideal skills and experience: - proven experience with etl/elt processes. - expertise in mysql, postgresql, and snowflake. - stro...",
+    "description_length": 111,
+    "skills": [
+      "database administration",
+      "database development",
+      "hadoop",
+      "mysql",
+      "nosql couch & mongo"
+    ],
+    "budget_min": 21663,
+    "budget_max": 21663,
+    "budget_type": "fixed",
+    "bids": 7,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": null,
+    "days_remaining": null,
+    "url": "https://www.freelancer.com/projects/mysql/scalable-data-pipeline-development"
+  },
+  {
+    "title": "Database Developer/ Compiler needed",
+    "description": "we are looking for a database developer/compiler who can help us develop and maintain our databases. the ideal candidate will have experience with both sql and nosql databases, and will be able to write efficient and reliable code. they will also be able to work with our team to ensure that our databases are up-to-date and meet our needs.",
+    "description_length": 59,
+    "skills": [
+      "database administration",
+      "database development",
+      "spreadsheets"
+    ],
+    "budget_min": 1743,
+    "budget_max": 1743,
+    "budget_type": "fixed",
+    "bids": 11,
+    "category": "database_development",
+    "source": "freelancer",
+    "deadline": null,
+    "days_remaining": null,
+    "url": "https://www.freelancer.com/projects/database-administration/database-developer-compiler-needed"
+  }
+]
